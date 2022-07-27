@@ -10,9 +10,9 @@ redirect_from:
 
 I am a Ph.D. candidate at Leibniz University Hannover in Germany (2020-2024 expected), research affiliate at the [Institute of Sustainable Building Systems](https://www.iek.uni-hannover.de/de/gebauedetechnik/).
 
-As a posthumanist, my research interest includes [Augmented Intelligence](https://digitalreality.ieee.org/publications/what-is-augmented-intelligence#:~:text=Augmented%20intelligence%20is%20a%20subsection,in%20response%20to%20improved%20decisions.), integrating prior knowledge (first-principles methods) into data-driven approaches, causality, and human-computer interaction.
+As a posthumanist, my research goal is to achieve general [augmented intelligence](https://digitalreality.ieee.org/publications/what-is-augmented-intelligence#:~:text=Augmented%20intelligence%20is%20a%20subsection,in%20response%20to%20improved%20decisions.), which involves integrating prior knowledge (first-principles methods) into data-driven approaches, causality, and exploring new patterns for human-computer interaction. Most of my works are adapted to scenarios of design support.
 
-
+*Here you can quickly access my bio, and **[publications](https://chenxiachan.github.io/publications/).
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
