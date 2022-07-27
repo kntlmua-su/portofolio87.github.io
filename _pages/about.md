@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xia Chen "
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-A researcher.
-A posthumanist.
-Interested in Machine assistance, integrating knowledge-based methods into data-driven approaches, causality, uncertainty analysis, and human-computer interaction.
+I am a Ph.D. candidate at Leibniz University Hannover in Germany (2020-2024 expected), research affiliate at the [Institute of Sustainable Building Systems](https://www.iek.uni-hannover.de/de/gebauedetechnik/).
+
+As a posthumanist, my research interest includes [Augmented Intelligence](https://digitalreality.ieee.org/publications/what-is-augmented-intelligence#:~:text=Augmented%20intelligence%20is%20a%20subsection,in%20response%20to%20improved%20decisions.), integrating prior knowledge (first-principles methods) into data-driven approaches, causality, and human-computer interaction.
 
 
 
