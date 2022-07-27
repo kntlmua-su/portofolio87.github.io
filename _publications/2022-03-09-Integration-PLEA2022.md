@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-03-09-Integration-PLEA2022
 excerpt: ''
 date: 2022-03-09
-venue: ''
+venue: 'PLEA2022'
 paperurl: ''
 citation: '<i>Xia Chen; Xiaoye Cai; Alexander Kümpel; Dirk Müller; Philipp Geyer. (2022). Dynamic Feedforward Strategy Development for Building Heating System based on AI Forecasting and Simulation, accepted by Passive and Low Energy Architecture, PLEA 2022.</i>'
 ---
