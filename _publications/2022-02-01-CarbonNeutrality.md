@@ -14,6 +14,7 @@ Chen X., Zhang Y.,Cai X. Frontiers of carbon neutrality in EU-German building se
 The EU and Germany’s carbon neutrality framework commitments, regulatory policies, financial instruments, key technologies (heating and cooling) and resource recovery and recycling programs in the building sector in the context of global climate change and energy transition are analyzed. Under the framework of the Paris Climate Agreement, the EU and Germany have developed energy efficiency and emission reduction strategies to promote economic development. By defining sustainability through policies, the EU and Germany stimulate the development of financial and technological instruments, and guide society to promote sustainable development and resource recycling from the whole life cycle of each activity, which has reference significance for China’s carbon neutrality target setting, policy measures and technological pathways.
 
 [Download paper here](http://www.hvacjournal.cn/Item/10633.aspx)
+[Media link](https://mp.weixin.qq.com/s/1hWjWxgZDB1Qj7TCajv9iQ)
 
 **Citation**:<i> 陈夏，张怡卓，蔡晓烨．欧盟-德国建筑碳中和前沿［Ｊ］．暖通空调，２０２２，５２（３）：２５-３８．
 Chen X., Zhang Y.,Cai X. Frontiers of carbon neutrality in EU-German building sector, Heating Ventilating & Air Conditioning, TU-023; X322.</i>
