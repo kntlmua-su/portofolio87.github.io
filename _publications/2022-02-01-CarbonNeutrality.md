@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-02-01-CarbonNeutrality
 excerpt: ''
 date: 2022-02-01
-venue: ''
+venue: '暖通空调; Heating Ventilating & Air Conditioning'
 paperurl: ''
 citation: '<i>陈夏，张怡卓，蔡晓烨．欧盟-德国建筑碳中和前沿［Ｊ］．暖通空调，２０２２，５２（３）：２５-３８．
 Chen X., Zhang Y.,Cai X. Frontiers of carbon neutrality in EU-German building sector, Heating Ventilating & Air Conditioning, TU-023; X322.</i>'
