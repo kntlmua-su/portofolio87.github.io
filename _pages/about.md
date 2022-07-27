@@ -1,7 +1,6 @@
-
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Xia Chen "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,9 +9,7 @@ redirect_from:
 ---
 
 A researcher.
-
 A posthumanist.
-
 Interested in Machine assistance, integrating knowledge-based methods into data-driven approaches, causality, uncertainty analysis, and human-computer interaction.
 
 
