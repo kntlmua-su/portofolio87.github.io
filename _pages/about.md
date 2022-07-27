@@ -1,6 +1,6 @@
-A researcher.<br>
-A posthumanist.<br>
-Interested in Machine assistance, integrating knowledge-based methods into data-driven approaches, causality, uncertainty analysis, and human-computer interaction.<br>
+A researcher.
+A posthumanist.
+Interested in Machine assistance, integrating knowledge-based methods into data-driven approaches, causality, uncertainty analysis, and human-computer interaction.
 
 <!-- ---
 permalink: /
