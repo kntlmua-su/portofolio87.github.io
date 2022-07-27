@@ -1,7 +1,7 @@
 ---
 title: "Explainable AI for engineering design: A unified approach of systems engineering and component-based deep learning"
 collection: publications
-permalink: /publication/2021-ExplainableAI
+permalink: /publication/2021-08-30-ExplainableAI
 excerpt: ''
 date: 2021-08-30
 venue: ''
