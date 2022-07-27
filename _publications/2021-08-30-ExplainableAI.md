@@ -3,7 +3,7 @@ title: "Explainable AI for engineering design: A unified approach of systems eng
 collection: publications
 permalink: /publication/2021-ExplainableAI
 excerpt: ''
-date: 2021
+date: 2021-08-30
 venue: ''
 paperurl: 'https://arxiv.org/abs/2108.13836'
 citation: '<i>Geyer, P., Singh, M.M. and Chen, X., 2021. Explainable AI for engineering design: A unified approach of systems engineering and component-based deep learning. arXiv preprint arXiv:2108.13836.</i>.'
