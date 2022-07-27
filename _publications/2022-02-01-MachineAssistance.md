@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-02-01-MachineAssistance
 excerpt: ''
 date: 2022-02-01
-venue: ''
+venue: 'Applied Energy'
 paperurl: ''
 citation: '<i>Chen, X. and Geyer, P., 2022. Machine assistance in energy-efficient building design: A predictive framework toward dynamic interaction with human decision-making under uncertainty. Applied Energy, 307, p.118240.</i>'
 ---
