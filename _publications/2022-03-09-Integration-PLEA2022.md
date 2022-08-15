@@ -13,4 +13,4 @@ citation: '<i>Xia Chen; Xiaoye Cai; Alexander Kümpel; Dirk Müller; Philipp Gey
 
 [Download paper here]()
 
-**Citation**:<i> Xia Chen; Xiaoye Cai; Alexander Kümpel; Dirk Müller; Philipp Geyer. (2022). A Dynamic Feedforward Control Strategy for Energy-efficient Building System Operation, accepted by Passive and Low Energy Architecture, PLEA 2022.</i>
+**Citation**:<i> Chen X., Cai X; Kümpel A.; Müller D.; Geyer P.. (2022). Dynamic Feedforward Strategy Development for Building Heating System based on AI Forecasting and Simulation, accepted by Passive and Low Energy Architecture, PLEA 2022.</i>
