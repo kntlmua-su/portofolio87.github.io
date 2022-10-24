@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-10-24-CausalInference
 excerpt: ''
 date: 2022-10-24
-venue: 'Arxiv'
+venue: 'Energy and Buildings'
 paperurl: ''
 citation: '<i>Chen, X., Abualdenien, J., Singh, M.M., Borrmann, A. and Geyer, P., 2022. Introducing causal inference in the energy-efficient building design process. arXiv preprint arXiv:2203.10115.</i>'
 ---
