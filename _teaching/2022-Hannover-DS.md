@@ -1,5 +1,5 @@
 ---
-title: "Data Sciences for Energy-Efficient Design"
+title: "Data Science in Energy Efficient Design"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2022-Hannover-DS
