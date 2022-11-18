@@ -2,7 +2,7 @@
 title: "Data Science in Energy Efficient Design"
 collection: teaching
 type: "Master/Bachelor course"
-permalink: /teaching/2020-Berlin-DS
+permalink: /teaching/2020-Berlin-DS 
 venue: "Technische Universität Berlin, Digital architecture and sustainability"
 date: 2020-10-01
 location: "Berlin, Germany"
