@@ -13,8 +13,7 @@ citation: '<i>Chen, X., Abualdenien, J., Singh, M.M., Borrmann, A. and Geyer, P.
 
 [Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S037877882200754X)
 [Arxiv](https://arxiv.org/abs/2203.10115)
-
-
+[Invited Talk in UC Berkely](https://www.youtube.com/watch?v=EH23VAZx8wU&t=2927s&ab_channel=XiaChen)
 [Code](https://github.com/chenxiachan/Causal-inference-in-building-design)
 
 **Citation**:<i> Chen, X., Abualdenien, J., Singh, M.M., Borrmann, A. and Geyer, P., 2022. Introducing causal inference in the energy-efficient building design process. arXiv preprint arXiv:2203.10115.</i>
