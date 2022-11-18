@@ -1,7 +1,7 @@
 ---
 title: "Data Science in Energy Efficient Design"
 collection: teaching
-type: "Workshop"
+type: "Master course"
 permalink: /teaching/2022-Hannover-DS
 venue: "Leibniz Universität Hannover, Sustainable Building Systems"
 date: 2022-02-01
