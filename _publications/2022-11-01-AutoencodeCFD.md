@@ -11,7 +11,7 @@ citation: '<i></i>'
 
 **Abstract**: 
 
-**Aim and approach: **
+**Aim and approach:**
 This study aims to investigate the feasibility of employing two algorithms, proper orthogonal decomposition (POD) and deep-autoencoder for the fast and precise forecast of indoor airflow, meanwhile, the comparison of the performance between these two methods will be explored in the context of various typical simulation scenarios. The details of Computational fluid dynamic (CFD) model information and constructions of the two methods are shown herein. The present work is tested in a two-dimensional (2D) rectangular room with air velocity distribution as the target variable. The dataset was divided into training and test datasets at the ratio of 5:1 and adapt for POD and deep-autoencoder, respectively. Then, changes in the organization of deep-autoencoder with respect to the embedded domain knowledge is conducted to check the variation of simulation performance. 
 
 **Scientific innovation and relevance:**
