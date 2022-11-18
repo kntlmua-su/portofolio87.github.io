@@ -3,7 +3,7 @@ title: "Material: Online notebooks"
 collection: teaching
 type: "Material"
 permalink: /teaching/Material
-venue: ""
+venue: "Data Science"
 date: 2022-11-01
 location: "Germany"
 ---
