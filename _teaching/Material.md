@@ -1,5 +1,5 @@
 ---
-title: "Material: Data Science in Energy Efficient Design"
+title: "Material: Online notebooks"
 collection: teaching
 type: "Material"
 permalink: /teaching/Material
@@ -8,12 +8,9 @@ date: 2022-11-01
 location: "Germany"
 ---
 
-# Course--Data-Science-in-Energy-Efficient-Design
+
 *Notebook for course: Data Sciences for Energy-Efficient Design*
-
-[Link to notebooks](https://github.com/chenxiachan/Course--Data-Science-in-Energy-Efficient-Design)
-
-This course introduces the typical workflow of analyzing tabular data, and apply to the energy-efficient building design scenario, including four notebooks:
+This course introduces the typical workflow of data science, and apply to the energy-efficient building design scenario, including four notebooks:
 
 <ol>
   <li><a href = "https://github.com/chenxiachan/Course--Data-Science-in-Energy-Efficient-Design/blob/main/L01_Python101.ipynb"  target="_blank"><b>Python 101</b></a>
