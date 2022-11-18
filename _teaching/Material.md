@@ -11,7 +11,7 @@ location: "Germany"
 # Course--Data-Science-in-Energy-Efficient-Design
 *Notebook for course: Data Sciences for Energy-Efficient Design*
 
-[link](https://github.com/chenxiachan/Course--Data-Science-in-Energy-Efficient-Design)
+[Link to notebooks](https://github.com/chenxiachan/Course--Data-Science-in-Energy-Efficient-Design)
 
 This course introduces the typical workflow of analyzing tabular data, and apply to the energy-efficient building design scenario, including four notebooks:
 
