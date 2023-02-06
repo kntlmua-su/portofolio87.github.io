@@ -2,7 +2,9 @@
 title: "Introducing causal inference in the energy-efficient building design process"
 collection: publications
 permalink: /publication/2022-10-24-CausalInference
-excerpt: '![image](https://user-images.githubusercontent.com/106488602/216998797-ed8c5609-d0df-4999-a83b-05530f3de1f6.png)'
+excerpt: '
+"Correlation does not imply causation" matters in building engineering. A key step to construct data-driven methods from System 1 to System 2.
+![image](https://user-images.githubusercontent.com/106488602/216998797-ed8c5609-d0df-4999-a83b-05530f3de1f6.png)'
 date: 2022-10-24
 venue: 'Energy and Buildings'
 paperurl: ''
