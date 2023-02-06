@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-07-06-Integration-EGICE2022
 excerpt: '
 A generalization structure organized by components and modules allows for data-driven models aligned to domain knowledge for building design support.
-![image](https://user-images.githubusercontent.com/106488602/217010514-292a4896-f7f8-4eb7-be11-ba0c474bae73.png)
+![image](https://user-images.githubusercontent.com/106488602/217059431-361a74c9-b633-4b05-994d-e5a0b8468b71.png)
 '
 date: 2022-07-06
 venue: 'EG-ICE2022, special issue'
