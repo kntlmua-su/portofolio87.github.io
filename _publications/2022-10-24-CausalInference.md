@@ -2,7 +2,7 @@
 title: "Introducing causal inference in the energy-efficient building design process"
 collection: publications
 permalink: /publication/2022-10-24-CausalInference
-excerpt: '![image](https://user-images.githubusercontent.com/106488602/216997988-ed8e0061-e777-45e8-80ec-2ded23302fc1.png)'
+excerpt: '![image](https://user-images.githubusercontent.com/106488602/216998797-ed8c5609-d0df-4999-a83b-05530f3de1f6.png)'
 date: 2022-10-24
 venue: 'Energy and Buildings'
 paperurl: ''
