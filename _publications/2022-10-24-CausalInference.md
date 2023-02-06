@@ -5,14 +5,7 @@ permalink: /publication/2022-10-24-CausalInference
 excerpt: '![image](https://user-images.githubusercontent.com/106488602/216998797-ed8c5609-d0df-4999-a83b-05530f3de1f6.png)'
 date: 2022-10-24
 venue: 'Energy and Buildings'
-paperurl: '
-
-- An analogy between personal experience and physical knowledge provides a channel for integrating data-driven and knowledge-based methods through causal DAGs. This separation would achieve a fast cross-sectional examination and avoid conducting erroneous conclusions.
-- Causal model provides a data-driven knowledge extraction method for design process analysis with reduced computational difficulty; The causal model allows users to quickly check potential design alternatives in a higher dimension.
-- We clarify the boundary of design assistance based on DAGs. The growth of DAG with reduced uncertainties aligns with the nature of the design process.
-- A four-step framework is proposed to implement causal inference into the design domain with causal structure finding and causal relationship quantification.
-
-'
+paperurl: '[Intro presentation](https://github.com/chenxiachan/chenxiachan.github.io/blob/master/files/Causality_Xia_26.10.2022.pdf)'
 citation: '<i>Chen, X., Abualdenien, J., Singh, M. M., Borrmann, A., & Geyer, P. (2022). Introducing causal inference in the energy-efficient building design process. Energy and Buildings, 277, 112583. https://doi.org/10.1016/j.enbuild.2022.112583</i>'
 ---
 
