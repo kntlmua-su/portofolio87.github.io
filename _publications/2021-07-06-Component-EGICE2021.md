@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-07-06-Component-EGICE2021
 excerpt: '
 Construct the "Lego" blocks for new building performance prediction.
-![image](https://user-images.githubusercontent.com/106488602/217058380-95dd1cd5-076c-44dc-aa96-9e0fb49e781d.png)
+![image](https://user-images.githubusercontent.com/106488602/217059242-6c668303-2645-49fb-a1a1-a28688d5b055.png)
 '
 date: 2021-07-06
 venue: 'EG-ICE2021'
