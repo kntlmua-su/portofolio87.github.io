@@ -2,7 +2,10 @@
 title: "A Dynamic Feedforward Control Strategy for Energy-efficient Building System Operation"
 collection: publications
 permalink: /publication/2022-03-09-Integration-PLEA2022
-excerpt: ''
+excerpt: '
+A cybernetic mindset of combining feedforward & feedback loops to achieve a dynamic, high-efficiency building system control strategy in a gray-box manner.
+![image](https://user-images.githubusercontent.com/106488602/217022913-aa1f9d0f-ad4a-46e4-a345-e3c71d17a9cd.png)
+'
 date: 2022-03-09
 venue: 'PLEA2022'
 paperurl: ''
