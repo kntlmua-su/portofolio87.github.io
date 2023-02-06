@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/2022-10-24-CausalInference
 excerpt: '
 "Correlation does not imply causation" matters in building engineering. A key step to construct data-driven methods from System 1 to System 2.
-![image](https://user-images.githubusercontent.com/106488602/217019601-b4eb486f-1c7a-4d01-b270-ece2c91d5aa0.png)
+![image](https://user-images.githubusercontent.com/106488602/217024026-46bae7b2-05d1-47c4-b5e3-e43e90e9f4de.png)
+
 '
 date: 2022-10-24
 venue: 'Energy and Buildings'
