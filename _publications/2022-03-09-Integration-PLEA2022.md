@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-03-09-Integration-PLEA2022
 excerpt: '
 A cybernetic mindset of combining feedforward & feedback loops to achieve a dynamic, high-efficiency building system control strategy in a gray-box manner.
-![image](https://user-images.githubusercontent.com/106488602/217022913-aa1f9d0f-ad4a-46e4-a345-e3c71d17a9cd.png)
+![image](https://user-images.githubusercontent.com/106488602/217024302-4f11510c-ed2a-4a1f-a2fb-06ec7e0625af.png)
 '
 date: 2022-03-09
 venue: 'PLEA2022'
