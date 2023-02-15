@@ -17,4 +17,4 @@ citation: '<i>Xia Chen; Xiaoye Cai; Alexander Kümpel; Dirk Müller; Philipp Gey
 [[Download paper here]](https://www.researchgate.net/publication/364799973_A_Dynamic_Feedforward_Control_Strategy_for_Energy-efficient_Building_System_Operation)<br>
 [[Presentation]](https://github.com/chenxiachan/chenxiachan.github.io/blob/master/files/PLEA-Xia_1166_PG.pdf)<br>
 
-**Citation**:<i> Chen X., Cai X; Kümpel A.; Müller D.; Geyer P., (2022). Dynamic Feedforward Strategy Development for Building Heating System based on AI Forecasting and Simulation, In Passive and Low Energy Architecture, PLEA 2022, Santiago de Chile. Chile. 2022. </i>
+**Citation**:<i> Chen X., Cai X; Kümpel A.; Müller D.; Geyer P., (2022). Dynamic Feedforward Strategy Development for Building Heating System based on AI Forecasting and Simulation, In Passive and Low Energy Architecture, PLEA 2022, Santiago de Chile. Chile. 2022 </i>
