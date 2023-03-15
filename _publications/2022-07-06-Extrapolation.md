@@ -2,7 +2,7 @@
 title: "Utilizing domain knowledge: robust machine learning for building energy performance prediction with small, inconsistent datasets"
 collection: publications
 permalink: /publication/2022-09-20-Extrapolation
-excerpt: A component-based machine learning (CBML) method that combines prior knowledge with data-driven modeling process to significantly reduce data dependency and improve robustness, data utilization, model interpretability, and enable extrapolative prediction in energy-efficient building engineering domain. ![image](https://user-images.githubusercontent.com/106488602/224159733-c0cc4e68-6609-4260-9f8c-27c1eb13ffbb.png)
+excerpt: Knowledge engineering: Use component-based machine learning (CBML) for better data utilization, model interpretability, and enable extrapolative prediction. ![image](https://user-images.githubusercontent.com/106488602/224159733-c0cc4e68-6609-4260-9f8c-27c1eb13ffbb.png)
 
 date: 2022-09-20
 venue: 'Arxiv'
