@@ -17,4 +17,4 @@ Despite the digitalization trend and data volume surge, first-principles models 
 
 [Download paper here]()
 
-**Citation**:<i>Chen, X., & Geyer, P. (2023). Pathway toward prior knowledge-integrated machine learning in engineering. In 18th International IBPSA conference and Exhibition, Building Simulation 2023, Shanghai, China. </i>
+**Citation**:<I> Chen, X., & Geyer, P. (2023). Pathway toward prior knowledge-integrated machine learning in engineering. In 18th International IBPSA conference and Exhibition, Building Simulation 2023, Shanghai, China. </i>
