@@ -2,17 +2,19 @@
 title: "Pathway toward prior knowledge-integrated machine learning in engineering design"
 collection: publications
 permalink: /publication/2022-10-20-KnowledgeInformedML
-excerpt: ''
+excerpt: '
+A systematic discussion on the synergistic knowledge integration across the different stages of the data-driven process based on their natural-inherited characteristics.
+![image](https://github.com/chenxiachan/chenxiachan.github.io/assets/106488602/b66f215d-dedb-425a-9dad-79fb2f7d12d9)
+'
 date: 2022-10-20
-venue: 'Working on'
+venue: 'The 18th International IBPSA conference and Exhibition, Building Simulation 2023'
 paperurl: ''
-citation: '<i></i>'
+citation: '<i> Chen, X., & Geyer, P. (2023). Pathway toward prior knowledge-integrated machine learning in engineering. In 18th International IBPSA conference and Exhibition, Building Simulation 2023, Shanghai, China. </i>'
 ---
 
 **Abstract**: 
-Modeling, forecasting, and optimizing the dynamic of engineering scenarios as inverse problems with hidden physics is often effort-wise expensive and requires different first-principles or symbolism formulations. Meanwhile, rapid advancements in artificial intelligence (AI) have attracted attention in most fields. Yet, due to its inherent connectionism and data-driven nature, significant progress has been made in areas where the data fundamental is advantageous but not domains built on highly integrated explicit laws and prior knowledge, such as building engineering. The recent decade trend of digitalization has boomed the volume of observational data, resulting in accelerated adaptation of connectionism approaches (machine learning, ML) in the field but less efficiently incorporated with domain knowledge. Similar to the long debate of symbolism and connectionism (mathematical models) in the AI community, first-principles models (known as physics-based, rule-based, or knowledge-based models) and data-driven approaches exist in parallel. Research for the process development to integrate both paradigms to transfer and utilize domain knowledge in a data-driven process is missing. 
-This study emphasizes efforts and prevailing trends to integrate multidisciplinary domain professions into machine acknowledgeable, data-driven processes to reconcile the integration gap between symbolism and connectionism representative approaches on a fundamental basis in the building engineering domain. 
+Despite the digitalization trend and data volume surge, first-principles models (also known as logic-driven, physics-based, rule-based, or knowledge-based models) and data-driven approaches have existed in parallel, mirroring the ongoing AI debate on symbolism versus connectionism. Research for process development to integrate both sides to transfer and utilize domain knowledge in the data-driven process is rare. This study emphasizes efforts and prevailing trends to integrate multidisciplinary domain professions into machine acknowledgeable, data-driven processes in a two-fold organization: examining information uncertainty sources in knowledge representation and exploring knowledge decomposition with a three-tier knowledge-integrated machine learning paradigm. This approach balances holist and reductionist perspectives in the engineering domain.
 
 [Download paper here]()
 
-**Citation**:<i></i>
+**Citation**:<i>Chen, X., & Geyer, P. (2023). Pathway toward prior knowledge-integrated machine learning in engineering. In 18th International IBPSA conference and Exhibition, Building Simulation 2023, Shanghai, China. </i>
