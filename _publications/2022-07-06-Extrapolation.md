@@ -7,7 +7,7 @@ excerpt: Component-based machine learning (CBML) encodes building structural kno
 date: 2022-09-20
 venue: 'Arxiv'
 paperurl: ''
-citation: '<i>Chen, Xia, Manav Mahan Sing, and Philipp Geyer. "Utilizing Domain Knowledge: Robust Machine Learning for Building Energy Prediction with Small, Inconsistent Datasets." arXiv preprint arXiv:2302.10784 (2023).</i>'
+citation: '<i> Chen, X., Singh, M.M., & Geyer, P. (2022). Utilizing domain knowledge: robust machine learning for building energy performance prediction with small, inconsistent datasets. arXiv preprint arXiv:2302.10784.</i>'
 ---
 
 **Abstract**: 
@@ -15,4 +15,4 @@ The demand for a huge amount of data for machine learning (ML) applications is c
 
 [Download paper here](https://arxiv.org/ftp/arxiv/papers/2302/2302.10784.pdf)
 
-**Citation**:<i>Chen, Xia, Manav Mahan Sing, and Philipp Geyer. "Utilizing Domain Knowledge: Robust Machine Learning for Building Energy Prediction with Small, Inconsistent Datasets." arXiv preprint arXiv:2302.10784 (2023).</i>
+**Citation**:<i>	Chen, X., Singh, M.M., & Geyer, P. (2022). Utilizing domain knowledge: robust machine learning for building energy performance prediction with small, inconsistent datasets. arXiv preprint arXiv:2302.10784.</i>
