@@ -1,5 +1,5 @@
 ---
-title: "Data Science in Energy Efficient Design"
+title: "Data Sciences for Energy-Efficient Design"
 collection: teaching
 type: "Master/Bachelor course"
 permalink: /teaching/2020-Berlin-DS 
@@ -16,4 +16,4 @@ The aim of teaching is to prepare future architects and civil engineers for the 
 - Methods of AI, ML and other data analysis methods
 - Knowledge of appropriate software tools
 
-This knowledge and skills are deepened as a support in building design through project-based application. Graduates should be able to work with digital data, models, methods and tools in design and planning and, on this basis, to develop model-based sustainable solutions for the built environment across disciplines.
+This knowledge and skills are deepened as a support in building design through project-based applications. Graduates should be able to work with digital data, models, methods and tools in design and planning and, on this basis, to develop model-based sustainable solutions for the built environment across disciplines.
