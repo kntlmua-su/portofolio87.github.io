@@ -1,5 +1,5 @@
 ---
-title: 'Data Sciences for Design and Engineering"
+title: "Data Sciences for Design and Engineering"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2022-Hannover-DS
