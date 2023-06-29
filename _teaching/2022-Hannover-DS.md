@@ -1,5 +1,5 @@
 ---
-title: "Data Science in Energy Efficient Design"
+title: 'Data Sciences for Design and Engineering"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2022-Hannover-DS
@@ -8,9 +8,9 @@ date: 2022-02-01
 location: "Hannover, Germany"
 ---
 
-Computers changed the way we think, design and build architecture. Computers tools allow architects to explore new aesthetics, simulate the performance of their design, or automate their design tasks in a way never seen before. Artificial Intellenge (AI) is one of the latest development in that field with great potential for real-time design assistance in the architectural practice. It may completely change the way humans (co)operate with machines.
+Computers changed the way we think, design and build architecture. Computers tools allow architects to explore new aesthetics, simulate the performance of their design, or automate their design tasks in a way never seen before. Artificial Intelligence (AI) is one of the latest development in that field with great potential for real-time design assistance in the architectural practice. It may completely change the way humans (co)operate with machines.
 
-To develop the expertise to design and evaluate architecture with the latest methods from data science, Artificial Intelligence (AI), we offer a combination of two joint seminars by the chair of Digital Methods in Architecture, dMA and the chair of Sustainable Building Systems (SBS). dMA will provide the computational design methods to generate parametric variations of a given design intent. Sustainable Building Systems will provide the energy simulation and AI expertise to evaluate the performance of a given design candidate.
+To develop the expertise to design and evaluate architecture with the latest methods from data science, Artificial Intelligence (AI), we offer a combination of two joint seminars by the chair of Digital Methods in Architecture, dMA and the chair of Sustainable Building Systems (SBS). dMA will provide the computational design methods to generate parametric variations of a given design intent. Sustainable Building Systems will provide energy simulation and AI expertise to evaluate the performance of a given design candidate.
 
 Designing for Energy Efficiency Architecture – Simulation and AI by SBS covers the following topics:
 
