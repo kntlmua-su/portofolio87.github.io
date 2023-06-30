@@ -7,7 +7,7 @@ A system that can provide rapid feedback, handle trade-offs, and adapt to variou
 ![Figure1](https://github.com/chenxiachan/chenxiachan.github.io/assets/106488602/274db76f-641c-4ad8-b567-473b031a85e7)
 '
 date: 2023-06-28
-venue: 'The 30th International Workshop on Intelligent Computing in Engineering, EG-ICE 2023'
+venue: 'In 30th International Workshop on Intelligent Computing in Engineering, EG-ICE 2023'
 paperurl: ''
 citation: '<i>Chen, X., & Geyer, P. (2023). Sustainability recommendation system for building design alternatives under multi-objective scenarios, accepted by 30th International Workshop on Intelligent Computing in Engineering, EG-ICE 2023, London, UK.</i><Br><a href="https://designaid-for2363.streamlit.app/" target="_blank"><b>Online Demo</b></a>'
 ---
