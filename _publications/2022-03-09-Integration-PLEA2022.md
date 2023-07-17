@@ -7,7 +7,7 @@ A cybernetic mindset of combining feedforward & feedback loops to achieve a dyna
 ![image](https://user-images.githubusercontent.com/106488602/217024302-4f11510c-ed2a-4a1f-a2fb-06ec7e0625af.png)
 '
 date: 2022-03-09
-venue: 'In Passive and Low Energy Architecture, PLEA 2022'
+venue: 'In Proceedings of Passive and Low Energy Architecture, PLEA 2022'
 paperurl: ''
 citation: '<i> Chen X., Cai X., Kümpel A., Müller D., & Geyer P., (2022). Dynamic Feedforward Strategy Development for Building Heating System based on AI Forecasting and Simulation. In Passive and Low Energy Architecture, PLEA 2022, Santiago de Chile, Chile.</i>'
 ---
