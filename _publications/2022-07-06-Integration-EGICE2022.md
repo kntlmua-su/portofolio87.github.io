@@ -7,7 +7,7 @@ A generalization structure organized by components and modules allows for data-d
 ![image](https://user-images.githubusercontent.com/106488602/217059431-361a74c9-b633-4b05-994d-e5a0b8468b71.png)
 '
 date: 2022-07-06
-venue: 'In 29th International Workshop on Intelligent Computing in Engineering, EG-ICE 2022, special issue'
+venue: 'In Proceedings of 29th International Workshop on Intelligent Computing in Engineering, EG-ICE 2022, special issue'
 paperurl: ''
 citation: '<i>	Chen X., Saluz U., Staudt J., Margesin M., Lang W., & Geyer P. (2022). Integrated data-driven and knowledge-based performance evaluation for machine assistance in building design decision support, In 29th International Workshop on Intelligent Computing in Engineering, EG-ICE 2022. Aarhus, Denmark.</i>'
 ---
