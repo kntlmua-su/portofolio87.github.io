@@ -1,7 +1,7 @@
 ---
 title: "Pathway toward prior knowledge-integrated machine learning in engineering design"
 collection: publications
-permalink: /publication/2022-10-20-KnowledgeInformedML
+permalink: /publication/2022-10-20-KnowledgeInformedML-BS23
 excerpt: '
 A systematic discussion on the synergistic knowledge integration across the different stages of the data-driven process based on their natural-inherited characteristics.<br>
 ![image](https://github.com/chenxiachan/chenxiachan.github.io/assets/106488602/b66f215d-dedb-425a-9dad-79fb2f7d12d9)
