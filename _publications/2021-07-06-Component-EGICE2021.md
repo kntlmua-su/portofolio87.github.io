@@ -7,7 +7,7 @@ Construct the "Lego" blocks for new building performance prediction.
 ![image](https://user-images.githubusercontent.com/106488602/217061344-5168b84a-be21-45ce-a9c1-2a0ec5ed6ebb.png)
 '
 date: 2021-07-06
-venue: 'In 28th International Workshop on Intelligent Computing in Engineering, EG-ICE 2021'
+venue: 'In Proceedings of 28th International Workshop on Intelligent Computing in Engineering, EG-ICE 2021'
 paperurl: ''
 citation: '<i> Chen, X., Singh, M.M. & Geyer, P. (2021). Component-based machine learning for predicting representative time-series of energy performance in building design. In 28th International Workshop on Intelligent Computing in Engineering, EG-ICE 2021. Berlin, Germany.</i>'
 ---
