@@ -2,9 +2,7 @@
 title: "Component-based machine learning for predicting representative time-series of energy performance in building design"
 collection: publications
 permalink: /publication/2021-07-06-Component-EGICE2021
-excerpt: '
-"Imagine building performance prediction as a dynamic Lego set, where each block represents a distinct component of the design. Just as Lego pieces can be assembled in countless ways to create varied structures, our component-based machine learning (CBML) approach offers a modular and scalable solution for predicting time-series energy performance in building designs. Dive into our manuscript to uncover how we’ve redefined building performance simulation with CBML, ensuring accurate hourly energy predictions that pave the way for optimized equipment sizing, efficient energy demand control, and balanced network loads."
-'
+excerpt: 'Imagine building performance prediction as a dynamic Lego set, where each block represents a distinct component of the design. Just as Lego pieces can be assembled in countless ways to create varied structures, our component-based machine learning (CBML) approach offers a modular and scalable solution for predicting time-series energy performance in building designs. Dive into our manuscript to uncover how we’ve redefined building performance simulation with CBML, ensuring accurate hourly energy predictions that pave the way for optimized equipment sizing, efficient energy demand control, and balanced network loads.'
 date: 2021-07-06
 venue: 'In Proceedings of 28th International Workshop on Intelligent Computing in Engineering, EG-ICE 2021'
 paperurl: ''
