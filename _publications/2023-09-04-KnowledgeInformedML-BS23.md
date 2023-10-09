@@ -13,8 +13,7 @@ citation: '<i> Chen, Xia, and Philipp Geyer. "Pathway toward prior knowledge-int
 
 **Abstract**: <br>
 Despite the digitalization trend and data volume surge, first-principles models (also known as logic-driven, physics-based, rule-based, or knowledge-based models) and data-driven approaches have existed in parallel, mirroring the ongoing AI debate on symbolism versus connectionism. Research for process development to integrate both sides to transfer and utilize domain knowledge in the data-driven process is rare. This study emphasizes efforts and prevailing trends to integrate multidisciplinary domain professions into machine acknowledgeable, data-driven processes in a two-fold organization: examining information uncertainty sources in knowledge representation and exploring knowledge decomposition with a three-tier knowledge-integrated machine learning paradigm. This approach balances holist and reductionist perspectives in the engineering domain.<Br>
-![image](https://github.com/chenxiachan/chenxiachan.github.io/assets/106488602/b66f215d-dedb-425a-9dad-79fb2f7d12d9)
-![image](https://github.com/chenxiachan/chenxiachan.github.io/assets/106488602/1ef0d065-d5e3-4a23-bc55-f3e05ae5bdab)<br>
+![image](https://github.com/chenxiachan/chenxiachan.github.io/assets/106488602/b66f215d-dedb-425a-9dad-79fb2f7d12d9)<br>
 [[Download paper here]](https://arxiv.org/abs/2307.06950)<Br>
 [[Presentation]](https://github.com/chenxiachan/chenxiachan.github.io/blob/master/files/BS2023_Xia_07.09.2023.pdf)
 
