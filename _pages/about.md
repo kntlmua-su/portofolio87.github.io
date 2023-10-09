@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at Leibniz University Hannover in Germany (2020-2024 expected), Research Affiliate and Lecturer at the [Institute of Sustainable Building Systems](https://www.iek.uni-hannover.de/de/gebauedetechnik/).
+I am a Ph.D. candidate at Leibniz University Hannover in Germany (2020-2024 expected), research affiliate and lecturer at the [Institute of Sustainable Building Systems](https://www.iek.uni-hannover.de/de/gebauedetechnik/).
 
 As a posthumanist, my research goal is to make efforts toward achieving general [augmented intelligence](https://digitalreality.ieee.org/publications/what-is-augmented-intelligence#:~:text=Augmented%20intelligence%20is%20a%20subsection,in%20response%20to%20improved%20decisions.), which involves integrating prior knowledge (first-principles methods) into data-driven approaches, causal inference analysis, and exploring new patterns for human-computer interaction. Most of my works are adapted to scenarios of design process support.
 
