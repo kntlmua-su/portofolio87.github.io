@@ -3,7 +3,7 @@ title: "A Dynamic Feedforward Control Strategy for Energy-efficient Building Sys
 collection: publications
 permalink: /publication/2022-03-09-Integration-PLEA2022
 excerpt: '
-Leveraging the confluence of simulation, first-principles models, and machine learning, I introduce a pioneering approach that marries the strengths of feedforward and feedback loops. Think of it as a reinforcement learning paradigm: we construct a dynamic environment, allowing the model to adapt and perform optimally. This synergy crafts a dynamic and highly efficient building system control strategy, all conceptualized within a ‘gray-box’ framework. By embedding dynamic prior knowledge of building system characteristics, we not only enhance the model's behavior but also tap into previously unexplored energy-saving potentials, paving the way for the future of optimized built environments.
+Leveraging the confluence of simulation, first-principles models, and machine learning, we introduce a pioneering approach that marries the strengths of feedforward and feedback loops. Think of it as a reinforcement learning paradigm: we construct a dynamic environment, allowing the model to adapt and perform optimally. This synergy crafts a dynamic and highly efficient building system control strategy, all conceptualized within a ‘gray-box’ framework. By embedding dynamic prior knowledge of building system characteristics, we not only enhance the model’s behavior but also tap into previously unexplored energy-saving potentials, paving the way for the future of optimized built environments.
 '
 date: 2022-03-09
 venue: 'In Proceedings of Passive and Low Energy Architecture, PLEA 2022'
