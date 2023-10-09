@@ -12,8 +12,9 @@ citation: '<i> Chen, X., & Geyer, P. (2023). Pathway toward prior knowledge-inte
 ---
 
 **Abstract**: <br>
-Despite the digitalization trend and data volume surge, first-principles models (also known as logic-driven, physics-based, rule-based, or knowledge-based models) and data-driven approaches have existed in parallel, mirroring the ongoing AI debate on symbolism versus connectionism. Research for process development to integrate both sides to transfer and utilize domain knowledge in the data-driven process is rare. This study emphasizes efforts and prevailing trends to integrate multidisciplinary domain professions into machine acknowledgeable, data-driven processes in a two-fold organization: examining information uncertainty sources in knowledge representation and exploring knowledge decomposition with a three-tier knowledge-integrated machine learning paradigm. This approach balances holist and reductionist perspectives in the engineering domain.<Br>
-![image](https://github.com/chenxiachan/chenxiachan.github.io/assets/106488602/e645f3c7-0f28-4973-814e-248f39a0515f)<br>
+Despite the digitalization trend and data volume surge, first-principles models (also known as logic-driven, physics-based, rule-based, or knowledge-based models) and data-driven approaches have existed in parallel, mirroring the ongoing AI debate on symbolism versus connectionism. Research for process development to integrate both sides to transfer and utilize domain knowledge in the data-driven process is rare. This study emphasizes efforts and prevailing trends to integrate multidisciplinary domain professions into machine-acknowledgeable, data-driven processes in a two-fold organization: examining information uncertainty sources in knowledge representation and exploring knowledge decomposition with a three-tier knowledge-integrated machine learning paradigm. This approach balances holist and reductionist perspectives in the engineering domain.<Br>
+![ladder](https://github.com/chenxiachan/chenxiachan.github.io/assets/106488602/9c33dc32-a7cf-4a15-89a9-4f4317c7f24d)<br>
+
 
 [[Download paper here]](https://arxiv.org/abs/2307.06950)<Br>
 [[Presentation]](https://github.com/chenxiachan/chenxiachan.github.io/blob/master/files/BS2023_Xia_07.09.2023.pdf)
