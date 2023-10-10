@@ -8,7 +8,7 @@ In the vast landscape of design and decision-making, distinguishing between corr
 date: 2022-10-24
 venue: 'Energy and Buildings'
 paperurl: ''
-citation: '<i>Chen, X., Abualdenien, J., Singh, M. M., Borrmann, A., & Geyer, P. (2022). Introducing causal inference in the energy-efficient building design process. Energy and Buildings, 277, 112583. https://doi.org/10.1016/j.enbuild.2022.112583</i>'
+citation: '<i>Chen, X., Abualdenien, J., Singh, M. M., Borrmann, A., & Geyer, P. (2022). Introducing causal inference in the energy-efficient building design process. Energy and Buildings, 277, 112583.</i>'
 ---
 
 **Abstract**: <br>
@@ -24,4 +24,4 @@ citation: '<i>Chen, X., Abualdenien, J., Singh, M. M., Borrmann, A., & Geyer, P.
 [[Code]](https://github.com/chenxiachan/Causal-inference-in-building-design) <Br>
 
 
-**Citation**:<i> Chen, X., Abualdenien, J., Singh, M. M., Borrmann, A., & Geyer, P. (2022). Introducing causal inference in the energy-efficient building design process. Energy and Buildings, 277, 112583. https://doi.org/10.1016/j.enbuild.2022.112583 </i>
+**Citation**:<i> Chen, X., Abualdenien, J., Singh, M. M., Borrmann, A., & Geyer, P. (2022). Introducing causal inference in the energy-efficient building design process. Energy and Buildings, 277, 112583.</i>
