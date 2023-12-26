@@ -3,7 +3,7 @@ title: "Using causal inference to avoid fallouts in data-driven parametric analy
 collection: publications
 permalink: /publication/2023-12-03-CausalFallout
 excerpt: '
-Our research emphasizes the importance of causal analysis in preventing biases in data-driven models and prior knowledge: the necessity of understanding the underlying connections – the \'why\' and \'how\' – behind each element to accurately solve the engineering puzzle.
+Our research emphasizes the importance of causal analysis in preventing biases in data-driven models and prior knowledge: the necessity of understanding the underlying connections – the why and how – behind each element to accurately solve the engineering puzzle.
 '
 date: 2023-12-03
 venue: 'Developments in the Built Environment'
