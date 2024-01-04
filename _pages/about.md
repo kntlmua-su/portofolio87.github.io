@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate at Leibniz University Hannover/Technical University Berlin in Germany (2020-2024 expected), research affiliate and lecturer at the [Institute of Sustainable Building Systems](https://www.iek.uni-hannover.de/de/gebauedetechnik/), under the supervision of Heisenbergprofessor, [Prof. Dr.-Ing. Philipp Geyer](https://www.iek.uni-hannover.de/de/ngs/team/prof-dr-philipp-geyer).
 
-Starting on the 3rd of January 2024, I'll be a Visiting Scholar at the University of California, Berkeley, undertaking research in the [Center for the Built Environment (CBE)](https://cbe.berkeley.edu/). During the visit, I'll investigate how AI embedded with causal inference benefits the engineering domain.
+Starting in January 2024, I'll be a Visiting Scholar at the University of California, Berkeley, undertaking research in the [Center for the Built Environment (CBE)](https://cbe.berkeley.edu/), investigating how AI embedded with causal inference benefits the engineering domain.
 
 As a posthumanist, my research goal is to make efforts toward achieving general [augmented intelligence](https://digitalreality.ieee.org/publications/what-is-augmented-intelligence#:~:text=Augmented%20intelligence%20is%20a%20subsection,in%20response%20to%20improved%20decisions.), which involves integrating prior knowledge (first-principles methods) into data-driven approaches, causal inference analysis, and exploring new patterns for human-computer interaction. Most of my works are adapted to engineering/design process support scenarios.
 
