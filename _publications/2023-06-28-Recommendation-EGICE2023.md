@@ -3,7 +3,7 @@ title: "Sustainability recommendation system for process-oriented building desig
 collection: publications
 permalink: /publication/2023-06-28-Recommendation-EGICE2023
 excerpt: '
-This manuscript introduces a recommendation system as an application extension practice for machine assistance in the sustainable building design domain. By swiftly processing vast design spaces, analyzing optimal design solutions, and dynamically aligning with ongoing processes, this system aims to be the bridge between intricate evaluations and tangible, sustainable outcomes in building engineering. Dive into our case study, grounded in real-world energy performance data, to see this system in action and its implications for achieving holistic sustainability objectives.
+This manuscript introduces a recommendation system as an application extension practice for machine assistance in the sustainable building design domain. By involving multi-objective optimization processes, this system aims to be the bridge between intricate evaluations and tangible, sustainable outcomes in building engineering for achieving holistic sustainability objectives.
 '
 date: 2023-06-28
 venue: 'In Proceedings of 30th International Workshop on Intelligent Computing in Engineering, EG-ICE 2023'
