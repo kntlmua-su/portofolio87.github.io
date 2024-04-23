@@ -7,7 +7,7 @@ excerpt: 'In the engineering domain, most systems are composed of the same basic
 date: 2024-06-21
 venue: 'Knowledge-Based Systems'
 paperurl: ''
-citation: '<i> Chen, X., Singh, M.M. and Geyer, P., 2024. Utilizing domain knowledge: robust machine learning for building energy performance prediction with small, inconsistent datasets. Knowledge-Based Systems, p.111774.</i>'
+citation: '<i>Chen, X., Singh, M.M. and Geyer, P., 2024. Utilizing domain knowledge: robust machine learning for building energy performance prediction with small, inconsistent datasets. Knowledge-Based Systems, p.111774</i>'
 ---
 
 **Abstract**: <br>
