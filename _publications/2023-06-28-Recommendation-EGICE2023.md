@@ -8,7 +8,7 @@ This manuscript introduces a recommendation system as an application extension p
 date: 2023-06-28
 venue: 'In Proceedings of 30th International Workshop on Intelligent Computing in Engineering, EG-ICE 2023'
 paperurl: ''
-citation: '<i>Chen, X., & Geyer, P. (2023). Sustainability recommendation system for building design alternatives under multi-objective scenarios, accepted by 30th International Workshop on Intelligent Computing in Engineering, EG-ICE 2023, London, UK.</i><Br><a href="https://designaid-for2363.streamlit.app/" target="_blank"><b>Online Demo</b></a>'
+citation: '<i>Chen, X., & Geyer, P. (2023). Sustainability recommendation system for building design alternatives under multi-objective scenarios, accepted by 30th International Workshop on Intelligent Computing in Engineering, EG-ICE 2023, London, UK.</i><Br><a href="https://designaid-for2363.streamlit.app/](https://www.youtube.com/watch?v=pKRl-jIe-Vk&ab_channel=XiaChen" target="_blank"><b>Online Demo</b></a>'
 ---
 
 **Abstract**: <br>
