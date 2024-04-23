@@ -2,7 +2,8 @@
 title: "Utilizing domain knowledge: robust machine learning for building energy performance prediction with small, inconsistent datasets"
 collection: publications
 permalink: /publication/2022-09-20-Extrapolation
-excerpt: 'In the engineering domain, most systems are composed of the same basic components with diverse compositions. By disentangling the compositionality from the system and embedding it into the model organization, we actually can construct a set of finite "Lego-Block" to predict infinite combinations. We proved that Component-based Machine Learning (CBML) turns the extrapolation problem at the system level into the interpolation problem at the component level in a more flexible and less data-reliance manner.'
+excerpt: 'In the engineering domain, most systems are composed of the same basic components with diverse compositions. By disentangling the compositionality from the system and embedding it into the model organization, we actually can construct a set of finite "Lego-Block" to predict infinite combinations. We proved that Component-based Machine Learning (CBML) turns the extrapolation problem at the system level into the interpolation problem at the component level in a more flexible and less data-reliance manner.
+'
 date: 2024-06-21
 venue: 'Knowledge-Based Systems'
 paperurl: ''
