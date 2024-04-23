@@ -3,7 +3,7 @@ title: "Pathway toward prior knowledge-integrated machine learning in engineerin
 collection: publications
 permalink: /publication/2023-09-04-KnowledgeInformedML-BS23
 excerpt: '
-In the evolving landscape of machine learning in engineering, the discourse often veers toward the contrast between first-principles models and data-driven approaches. However, bridging these approaches has remained an under-explored territory. This manuscript delves into this intersection, offering a foundational framework to seamlessly incorporate domain knowledge into the data-driven methodology. Serving as a pivotal reference, the paper proposed a comprehensive picture of the ladder of knowledge-integrated machine learning. By setting the context in the building engineering domain as a demonstration, we explore the instrumental in shaping our understanding of knowledge integration in the modern engineering realm, clarifying the synergistic knowledge integration across different stages of the data-driven process.
+Proposing a paradigm to systematically embed prior knowledge and domain insights into data-driven models, addressing domain-specific challenges through three levels of knowledge integration: modeling knowledge for system description, inductive logic and disentanglement for extrapolation, and abstract reasoning and deductive logic for representation. We demonstrated this paradigm in the context of building engineering.
 '
 date: 2023-09-04
 venue: 'In Proceedings of 18th International IBPSA conference and Exhibition, Building Simulation 2023'
