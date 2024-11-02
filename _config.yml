@@ -12,7 +12,7 @@ title                    : "Portofolio"
 title_separator          : "-"
 name                     : &name "Fahmi Aditya"
 description              : &description "Learning is my passion. I believe that knowledge is power"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https:/portofolio87.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
